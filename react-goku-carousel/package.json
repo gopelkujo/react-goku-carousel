@@ -1,6 +1,6 @@
 {
   "name": "react-goku-carousel",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A React component for carousel",
   "main": "lib/index.js",
   "scripts": {
@@ -29,9 +29,6 @@
     "react-goku-carousel-core": "^0.1.0",
     "react-goku-carousel-utils": "^0.1.0",
     "warning": "^4.0.1"
-  },
-  "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0 || ^17.0.0"
   },
   "devDependencies": {
     "pkgfiles": "^2.3.2"
