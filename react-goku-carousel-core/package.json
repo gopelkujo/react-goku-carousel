@@ -1,0 +1,28 @@
+{
+  "name": "react-goku-carousel-core",
+  "version": "0.1.0",
+  "description": "react-goku-carousel core modules",
+  "main": "lib/index.js",
+  "scripts": {
+    "prepublish": "pkgfiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gopelkujo/react-goku-carousel.git"
+  },
+  "author": "Gopel Kujo <mn.dwisatya@gmail.com> (https://gopelkujo.vercel.app/)",
+  "contributors": [
+    "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)"
+  ],
+  "dependencies": {
+    "@babel/runtime": "7.0.0",
+    "warning": "^4.0.1"
+  },
+  "devDependencies": {
+    "pkgfiles": "^2.3.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}

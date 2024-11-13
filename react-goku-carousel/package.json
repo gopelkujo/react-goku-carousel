@@ -1,0 +1,43 @@
+{
+  "name": "react-goku-carousel",
+  "version": "0.1.3",
+  "description": "A React component for carousel",
+  "main": "lib/index.js",
+  "scripts": {
+    "prepublish": "pkgfiles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gopelkujo/react-goku-carousel.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "swipe",
+    "swipeable"
+  ],
+  "author": "Gopel Kujo <mn.dwisatya@gmail.com> (https://gopelkujo.vercel.app/)",
+  "contributors": [
+    "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)"
+  ],
+  "bugs": {
+    "url": "https://github.com/gopelkujo/react-goku-carousel/issues"
+  },
+  "dependencies": {
+    "@babel/runtime": "7.0.0",
+    "prop-types": "^15.5.4",
+    "react-goku-carousel-core": "^0.1.0",
+    "react-goku-carousel-utils": "^0.1.0",
+    "warning": "^4.0.1"
+  },
+  "peerDependencies": {
+    "react": "^15.3.0 || ^16.0.0 || ^17.0.0"
+  },
+  "devDependencies": {
+    "pkgfiles": "^2.3.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
