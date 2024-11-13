@@ -1,7 +1,7 @@
 {
   "name": "react-goku-carousel",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "lint": "eslint . && echo \"eslint: no lint errors\"",
     "test": "echo \"ok\"",
