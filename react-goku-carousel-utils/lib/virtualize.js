@@ -27,7 +27,7 @@ var _react = _interopRequireWildcard(require("react"));
 
 var _propTypes = _interopRequireDefault(require("prop-types"));
 
-var _reactSwipeableViewsCore = require("react-swipeable-views-core");
+var _reactSwipeableViewsCore = require("react-goku-carousel-core");
 
 function virtualize(MyComponent) {
   var Virtualize =

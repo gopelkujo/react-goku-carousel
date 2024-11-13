@@ -31,7 +31,7 @@ var _propTypes = _interopRequireDefault(require("prop-types"));
 
 var _warning = _interopRequireDefault(require("warning"));
 
-var _reactSwipeableViewsCore = require("react-swipeable-views-core");
+var _reactSwipeableViewsCore = require("react-goku-carousel-core");
 
 function addEventListener(node, event, handler, options) {
   node.addEventListener(event, handler, options);

@@ -29,7 +29,7 @@ var _keycode = _interopRequireDefault(require("keycode"));
 
 var _reactEventListener = _interopRequireDefault(require("react-event-listener"));
 
-var _reactSwipeableViewsCore = require("react-swipeable-views-core");
+var _reactSwipeableViewsCore = require("react-goku-carousel-core");
 
 function bindKeyboard(MyComponent) {
   var BindKeyboard =

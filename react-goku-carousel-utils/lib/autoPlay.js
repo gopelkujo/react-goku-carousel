@@ -29,7 +29,7 @@ var _shallowEqual = require("shallow-equal");
 
 var _reactEventListener = _interopRequireDefault(require("react-event-listener"));
 
-var _reactSwipeableViewsCore = require("react-swipeable-views-core");
+var _reactSwipeableViewsCore = require("react-goku-carousel-core");
 
 function autoPlay(MyComponent) {
   var AutoPlay =

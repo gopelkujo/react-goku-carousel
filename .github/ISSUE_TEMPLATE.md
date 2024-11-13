@@ -1,12 +1,12 @@
 <!--- Provide a general summary of the issue in the Title above -->
 
 <!--
-    Thank you very much for contributing to react-swipeable-views by creating an issue! ❤️
+    Thank you very much for contributing to react-goku-carousel by creating an issue! ❤️
     To avoid duplicate issues we ask you to check off the following list.
 -->
 
 <!-- Checked checkbox should look like this: [x] -->
-- [ ] I have searched the [issues](https://github.com/oliviertassinari/react-swipeable-views/issues) of this repository and believe that this is not a duplicate.
+- [ ] I have searched the [issues](https://github.com/oliviertassinari/react-goku-carousel/issues) of this repository and believe that this is not a duplicate.
 
 ## Expected Behavior
 <!---
@@ -26,7 +26,7 @@
     Include code to reproduce, if relevant (which it most likely is).
 
     This codesandbox.io template _may_ be a good starting point:
-    https://codesandbox.io/s/github/oliviertassinari/react-swipeable-views/tree/master/examples/create-react-app
+    https://codesandbox.io/s/github/oliviertassinari/react-goku-carousel/tree/master/examples/create-react-app
 
 
     If YOU DO NOT take time to provide a codesandbox.io reproduction, should the COMMUNITY take time to help you?
@@ -49,7 +49,7 @@
 
 | Tech                   | Version |
 |------------------------|---------|
-| react-swipeable-views  |         |
+| react-goku-carousel  |         |
 | React                  |         |
 | platform               |         |
 | etc                    |         |

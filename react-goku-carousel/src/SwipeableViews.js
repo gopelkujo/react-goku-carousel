@@ -6,7 +6,7 @@ import {
   checkIndexBounds,
   computeIndex,
   getDisplaySameSlide,
-} from 'react-swipeable-views-core';
+} from 'react-goku-carousel-core';
 
 function addEventListener(node, event, handler, options) {
   node.addEventListener(event, handler, options);
